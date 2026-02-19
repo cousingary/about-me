@@ -33,7 +33,7 @@ Review aggregation and customer engagement automation for Thai marketplace selle
 ## Current Projects
 
 **Production Deployment:**
-- Sawasdee Realty lead pipeline (Q1 2025 launch target)
+- Sawasdee Realty review pipeline (Q1 2026 launch target)
 - MonPaga review sync and chatbot (building on Waking Cup proof-of-concept)
 - Automated horoscope and tarot content system (weekly generation + Thai mirror)
 
@@ -59,7 +59,7 @@ Review aggregation and customer engagement automation for Thai marketplace selle
 
 **Technical:**
 - CS50 AI (Harvard Certificate)
-- Web development since 1998 (27 years)
+- Web development since 1998 (28 years)
 - Junior AI engineer with production deployment experience
 - Systems architecture across multiple business domains
 
@@ -67,7 +67,7 @@ Review aggregation and customer engagement automation for Thai marketplace selle
 - Thai real estate market (Bangkok focus, 3-6M baht segment)
 - Southeast Asian e-commerce (Lazada, Shopee, marketplace dynamics)
 - Tour operations and hospitality automation
-- Occult systems, tarot, astrology, divination (16 years operational experience)
+- Occult systems, tarot, astrology, divination (17 years operational experience)
 - Psychology, Scientology study, shadow work, introspective systems
 
 **Context:**
@@ -97,11 +97,11 @@ Whether it's:
 
 ## Approach
 
-**Real-world first.** Every schema, every automation, every AI integration comes from operational deployment. I don't build for theory — I build to solve actual problems in businesses I run or support.
+**Real-world first.** Every schema, every automation, every AI integration comes from operational deployment. I don't build just for theory — I build to solve actual problems in businesses I run or support.
 
-**Measure outcomes.** The 110% Lazada lift isn't marketing copy. It's the result of proper schema implementation measured over 6 months. If something doesn't produce measurable value, it gets descoped or rebuilt.
+**Measure outcomes.** The 110% Lazada lift is the result of proper web development and schema implementation measured over 6 months. If something doesn't produce measurable value, it gets descoped or rebuilt.
 
-**Iterate in production.** TarotSchema has 16 years of refinement. The real estate pipeline is being tested with actual agents. MonPaga is deployed at Waking Cup before being sold to other sellers. Iteration beats perfection.
+**Iterate in production.** TarotSchema has years of refinement. The real estate pipeline is being tested with actual agents. MonPaga is deployed at Waking Cup before being sold to other sellers. Iteration beats perfection.
 
 **Build leverage.** One-off projects are fine for learning. Long-term value comes from systems that compound — schemas that enable multiple products, pipelines that scale across clients, automation that removes repetitive work permanently.
 
