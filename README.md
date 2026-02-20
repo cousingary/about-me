@@ -14,14 +14,14 @@ Framework for building machine-readable business schemas across multiple domains
 **Proven Impact:** Omni drove 110% Lazada sales increase in 6 months for Waking Cup.
 
 ### 🔮 [TarotSchema](https://github.com/tarotschema) · [Tarotsmith](https://tarotsmith.com)
-Structured semantic schema for tarot and oracle systems. 16 years of continuous production (2009-present). All reading logic, spreads, and symbolic interpretation programmed from scratch. Formalized for AI training and symbolic reasoning research.
+Structured semantic schema for tarot and oracle systems. 17 years of continuous production (2009-present). All reading logic, spreads, and symbolic interpretation programmed from scratch. Formalized for AI training and symbolic reasoning research.
 
 **Coverage:** 20+ spreads across 8 oracle systems (Tarot, Lenormand, Runes, I Ching, Ogham, Dominoes, Playing Cards, Mahjong).
 
 ### 🏠 Real Estate Automation (Sawasdee Realty)
 Lead generation pipeline combining Scrapebox URL harvesting, Python extraction, and Claude-powered scoring. Automated listing distribution across TikTok, portals, and Line OA. Environmental disclosure enforcement at schema level.
 
-**Target:** 150-300 qualified Bangkok leads per week in the 2-3M baht residential segment.
+**Target:** 150-300 qualified Bangkok leads per week in the 3-6M baht residential segment.
 
 ### ☕ MonPaga (E-commerce Automation)
 Review aggregation and customer engagement automation for Thai marketplace sellers (Lazada/Shopee). Schema markup integration, WooCommerce sync, and automated chatbot for repetitive buyer questions.
@@ -33,7 +33,7 @@ Review aggregation and customer engagement automation for Thai marketplace selle
 ## Current Projects
 
 **Production Deployment:**
-- Sawasdee Realty review pipeline (Q1 2026 launch target)
+- Sawasdee Realty review pipeline (End of Q1 2026 launch target)
 - MonPaga review sync and chatbot (building on Waking Cup proof-of-concept)
 - Automated horoscope and tarot content system (weekly generation + Thai mirror)
 
@@ -97,7 +97,7 @@ Whether it's:
 
 ## Approach
 
-**Real-world first.** Every schema, every automation, every AI integration comes from operational deployment. I don't build just for theory — I build to solve actual problems in businesses I run or support.
+**Real-world first.** Every schema, every automation, every AI integration comes from operational deployment. I don't build just for theory; I build to solve actual problems in businesses I run or support.
 
 **Measure outcomes.** The 110% Lazada lift is the result of proper web development and schema implementation measured over 6 months. If something doesn't produce measurable value, it gets descoped or rebuilt.
 
@@ -124,7 +124,7 @@ Whether it's:
 ## Why This Portfolio Matters
 
 I have:
-- **16 years** of a live production system (Tarotsmith)
+- **17 years** of a live production system (Tarotsmith)
 - **Measurable business impact** (110% sales increase)
 - **Diverse domain expertise** (real estate, e-commerce, tours, tarot)
 - **Production deployments** across all projects, not toy examples
