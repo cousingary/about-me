@@ -46,12 +46,24 @@ Review aggregation and customer engagement automation for Thai marketplace selle
 
 ## Technical Stack
 
-**Core Languages:** Python, JavaScript, PHP  
-**AI & LLM APIs:** Claude (primary), ChatGPT, Gemini, DeepSeek, Grok  
-**Data & Schema:** Schema.org, JSON-LD, SQL, Web Scraping, Scrapebox  
-**E-commerce:** WooCommerce, Lazada/Shopee APIs, marketplace sync  
-**Platforms & APIs:** Google Drive API, Line OA, WhatsApp Business, TikTok  
-**Infrastructure:** Linux, Git, automation pipelines, local LLM deployment
+**Core Languages:** Python, JavaScript, PHP
+
+**AI Orchestration:**
+- **Claude Code** — primary reasoning layer; architecture, production decisions, live integrations
+- **Gemini CLI** (`gemini-2.5-flash`) — bulk labor: ingestion, tagging, content generation, nightly cron jobs on VPS
+- **gws CLI** — Google Workspace data pipeline (Gmail, Drive, Calendar, Sheets → structured output)
+
+**MCP Integrations (Claude Code):**
+- **Linear** — project management, issues, milestones
+- **Supabase** — database, edge functions, branching, migrations
+- **Cloudflare** — Workers, D1 (SQLite at edge), KV, R2, Hyperdrive
+- **Gmail + Google Calendar** — read/draft/search mail, event management
+- **Square** — payments and commerce API
+
+**Data & Schema:** Schema.org, JSON-LD, SQL, Web Scraping, Scrapebox
+**E-commerce:** WooCommerce, Lazada/Shopee APIs, marketplace sync
+**Platforms & APIs:** Google Drive API, Line OA, WhatsApp Business, TikTok
+**Infrastructure:** Linux VPS, WSL2, Git, Python pipelines, second brain memory system
 
 ---
 
