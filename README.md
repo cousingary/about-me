@@ -53,6 +53,13 @@ Review aggregation and customer engagement automation for Thai marketplace selle
 - **Gemini CLI** (`gemini-2.5-flash`) — bulk labor: ingestion, tagging, content generation, nightly cron jobs on VPS
 - **gws CLI** — Google Workspace data pipeline (Gmail, Drive, Calendar, Sheets → structured output)
 
+**AI APIs in active use:**
+- **Anthropic (Claude)** — reasoning, scripting, vision, production decisions
+- **OpenAI (GPT-4o)** — fallback scripting, embeddings (`text-embedding-*`)
+- **Google Gemini** — bulk pipeline LLM work, free-tier automation
+- **Groq** — low-latency inference for real-time tasks
+- **DeepSeek** — cost-efficient reasoning for unattended pipelines
+
 **MCP Integrations (Claude Code):**
 - **Linear** — project management, issues, milestones
 - **Supabase** — database, edge functions, branching, migrations
